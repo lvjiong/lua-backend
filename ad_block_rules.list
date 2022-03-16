@@ -1,0 +1,11 @@
+# shadowrocket ad block rules
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,supersonicads.com
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,unityads.unitychina.cn
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,supersonicads.com
+DOMAIN-SUFFIX,crashlytics.com
