@@ -9,3 +9,9 @@ DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,api.bspapp.com
+DOMAIN-SUFFIX,mi.gdt.qq.com
+URL-REGEX,app.ftms.com.cn/V2/index/appversion
+URL-REGEX,y.ruanjianxin.xyz\/api\/v1\/App\/Version\?os=2
+URL-REGEX,api.juliangcili.com/api/adver/data/insert
+DOMAIN-KEYWORD,-toutiao
