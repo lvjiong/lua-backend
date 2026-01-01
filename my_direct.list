@@ -5,5 +5,6 @@ DOMAIN-SUFFIX,tencent.tencentscloud.com
 DOMAIN-SUFFIX,caiyun.feixin.10086.cn
 DOMAIN-SUFFIX,vsc.aikan.miguvideo.com
 DOMAIN-SUFFIX,hangzhou.gov.cn
+DOMAIN-SUFFIX,bmhyk.vip
 URL-REGEX,aikanlive.miguvideo.com:8082/EDS/JSON/Login
 URL-REGEX,*189(.cn|.com)
