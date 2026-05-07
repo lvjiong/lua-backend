@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,nbcps-mtop.cainiao.com
 DOMAIN-SUFFIX,cn-acs.m.cainiao.com,
 DOMAIN-SUFFIX,netflow-mtop.cainiao.com
+URL-REGEX,^https\:\/\/guide-acs\.m\.taobao.com\/gw\/mtop\.cainiao
